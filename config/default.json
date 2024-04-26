@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:hcs8y2LAFLulpkgP@nurapost.kedmtwi.mongodb.net/?retryWrites=true&w=majority&appName=NuraPost",
+    "secretKey" : "mern-secret-key"
+}
